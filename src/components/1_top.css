@@ -1,0 +1,14 @@
+.top{
+    width: 100%;
+}
+
+.top-icons{
+    display: flex;
+    justify-content: space-evenly ;
+    align-items: center;
+}
+
+.top-icons-item{
+    width: 200px;
+    cursor: pointer;
+}
